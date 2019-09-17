@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="button_yes_text">Android</string>
+    <string name="button_no_text">Apple</string>
+    <string name="button_reset_text">Reset</string>
+    <string name="question_text">Do you prefer Android or Apple?</string>
+</resources>
